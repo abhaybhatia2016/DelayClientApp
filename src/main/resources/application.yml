@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: VTExample
+  threads:
+    virtual:
+      enabled: true
+server:
+  port: 8082
