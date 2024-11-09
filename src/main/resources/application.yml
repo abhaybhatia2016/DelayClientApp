@@ -1,6 +1,6 @@
 spring:
   application:
-    name: VTExample
+    name: DelayClientApp
 # Since library has a yaml file and this app has yml (not yaml) file, there is no collision and the lib yaml and app yml are both read and VTs are used
 # Therefore we don't have to set the VT property here in the app yml file and the property is read from the lib yaml and VTs are used
 # If however I was to override the property in this app yml file, then the lib yaml value will be overrided

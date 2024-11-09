@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.VT</groupId>
-	<artifactId>VTExample</artifactId>
+	<artifactId>DelayClientApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>VTExample</name>
+	<name>DelayClientApp</name>
 	<description>Delays responses</description>
 
 	<properties>
